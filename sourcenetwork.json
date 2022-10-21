@@ -1,7 +1,7 @@
 {
-    "chain_name": "SOURCE-TESTNET",
-    "api": ["https://source-testnet.api.kjnodes.com"], 
-    "rpc": ["https://source-testnet.rpc.kjnodes.com/","https://rpc-t.source.nodestake.top"],
+    "chain_name": "SOURCEPROTOCOL-TESTNET",
+    "api": ["https://api-sourcechain-testnet.mms.team"], 
+    "rpc": ["https://rpc-sourcechain-testnet.mms.team"],
     "sdk_version": "0.42.6",
     "coin_type": "118",
     "min_tx_fee": "800",
