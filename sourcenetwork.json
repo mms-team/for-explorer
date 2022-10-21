@@ -1,0 +1,17 @@
+{
+    "chain_name": "SOURCE-TESTNET",
+    "api": ["https://source-testnet.api.kjnodes.com"], 
+    "rpc": ["https://source-testnet.rpc.kjnodes.com/","https://rpc-t.source.nodestake.top"],
+    "sdk_version": "0.42.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "assets": [{
+        "base": "uSOURCE",
+        "symbol": "SOURCE",
+        "exponent": "6",
+        "coingecko_id": "SOURCE", 
+        "logo": "https://explorer.nodestake.top/logos/source.jpg"
+    }],
+    "addr_prefix": "SOURCE",
+    "logo": "https://explorer.nodestake.top/logos/source.jpg"
+}
