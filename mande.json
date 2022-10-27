@@ -1,13 +1,13 @@
 {
-    "chain_name": "SOURCEPROTOCOL-TESTNET",
+    "chain_name": "MANDE-TESTNET",
     "api": ["https://api-mande-testnet-1.mms.team"], 
     "rpc": ["https://rpc-mande-testnet-1.mms.team"],
     "sdk_version": "0.42.6",
     "coin_type": "118",
     "min_tx_fee": "800",
     "assets": [{
-        "base": "MANDE",
-        "symbol": "MANDE",
+        "base": "MAND",
+        "symbol": "MAND",
         "exponent": "6",
         "coingecko_id": "MANDE", 
         "logo": "https://a-cloud.b-cdn.net/media/original/e8fd6b7d20ad3312b515b374db8ad445/image.png"
