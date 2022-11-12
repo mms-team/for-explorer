@@ -1,0 +1,17 @@
+{
+    "chain_name": "Neutron",
+    "api": ["https://rest.quark.ntrn.info"], 
+    "rpc": ["https://rpc-t.neutron.nodestake.top"],
+    "sdk_version": "0.42.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "assets": [{
+        "base": "NTRN",
+        "symbol": "NTRN",
+        "exponent": "6",
+        "coingecko_id": "NTRN", 
+        "logo": "https://explorer.nodestake.top/logos/neutron.jpg"
+    }],
+    "addr_prefix": "neutron",
+    "logo": "https://explorer.nodestake.top/logos/neutron.jpg"
+}
