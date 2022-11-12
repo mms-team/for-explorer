@@ -1,0 +1,17 @@
+{
+    "chain_name": "GITOPIA-TESTNET-2",
+    "api": ["https://api-t.gitopia.nodestake.top"], 
+    "rpc": ["https://rpc-t.gitopia.nodestake.top"],
+    "sdk_version": "0.42.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "assets": [{
+        "base": "TLORE",
+        "symbol": "TLORE",
+        "exponent": "6",
+        "coingecko_id": "TLORE", 
+        "logo": "https://explorer.nodestake.top/logos/gitopia.png"
+    }],
+    "addr_prefix": "gitopia",
+    "logo": "https://explorer.nodestake.top/logos/gitopia.png"
+}
