@@ -1,0 +1,17 @@
+{
+    "chain_name": "Supernova",
+    "api": ["https://suprenova-rest.dev-supernova.xyz"], 
+    "rpc": ["https://suprenova-tendermint.dev-supernova.xyz"],
+    "sdk_version": "0.42.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "assets": [{
+        "base": "NOVA",
+        "symbol": "NOVA",
+        "exponent": "6",
+        "coingecko_id": "NOVA", 
+        "logo": "https://explorer.nodestake.top/logos/supernova.jpg"
+    }],
+    "addr_prefix": "nova",
+    "logo": "https://explorer.nodestake.top/logos/supernova.jpg"
+}
