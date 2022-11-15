@@ -1,0 +1,17 @@
+{
+    "chain_name": "Aura Network",
+    "api": ["https://api-t.defund.nodestake.top"], 
+    "rpc": ["https://api-aura-euphoria-1.mms.team"],
+    "sdk_version": "0.42.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "assets": [{
+        "base": "AURA",
+        "symbol": "AURA",
+        "exponent": "6",
+        "coingecko_id": "AURA", 
+        "logo": "https://explorer.nodestake.top/logos/auro.jpg"
+    }],
+    "addr_prefix": "aura",
+    "logo": "https://explorer.nodestake.top/logos/auro.jpg"
+}
