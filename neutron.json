@@ -1,7 +1,7 @@
 {
     "chain_name": "Neutron",
-    "api": ["https://rest.quark.ntrn.info"], 
-    "rpc": ["https://rpc-t.neutron.nodestake.top"],
+    "api": ["https://api-neutron-testnet.mms.team"], 
+    "rpc": ["https://rpc-neutron-testnet.mms.team"],
     "sdk_version": "0.42.6",
     "coin_type": "118",
     "min_tx_fee": "800",
