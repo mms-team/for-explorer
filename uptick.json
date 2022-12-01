@@ -1,7 +1,7 @@
 {
     "chain_name": "uptick",
-    "api": ["https://api-uptick_7000-1.mms.team"], 
-    "rpc": ["https://rpc-uptick_7000-1.mms.team"],
+    "api": ["https://api-uptick-testnet.mms.team"], 
+    "rpc": ["https://rpc-uptick-testnet.mms.team"],
     "sdk_version": "0.42.6",
     "coin_type": "60",
     "min_tx_fee": "800",
