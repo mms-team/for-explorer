@@ -1,7 +1,7 @@
 {
     "chain_name": "Supernova",
-    "api": ["https://suprenova-rest.dev-supernova.xyz"], 
-    "rpc": ["https://suprenova-tendermint.dev-supernova.xyz"],
+    "api": ["https://supernova-rest.dev-supernova.xyz"], 
+    "rpc": ["https://supernova-tendermint.dev-supernova.xyz"],
     "sdk_version": "0.42.6",
     "coin_type": "118",
     "min_tx_fee": "800",
