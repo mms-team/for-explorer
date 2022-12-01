@@ -1,7 +1,7 @@
 {
     "chain_name": "Defund",
-    "api": ["https://api-t.defund.nodestake.top"], 
-    "rpc": ["https://rpc-defund-private-2.mms.team"],
+    "api": ["https://api-defund-testnet.mms.team"], 
+    "rpc": ["https://rpc-defund-testnet.mms.team"],
     "sdk_version": "0.42.6",
     "coin_type": "118",
     "min_tx_fee": "800",
