@@ -1,7 +1,7 @@
 {
     "chain_name": "NIBIRU",
-    "api": ["https://rpc.testnet-1.nibiru.fi:44,https://api-nibiru-testnet.mms.team"], 
-    "rpc": ["https://nibiru.api.t.stavr.tech,https://rpc-nibiru-testnet.mms.team"],
+    "api": ["https://api-nibiru-testnet.mms.team"], 
+    "rpc": ["https://rpc-nibiru-testnet.mms.team"],
     "sdk_version": "0.42.6",
     "coin_type": "118",
     "min_tx_fee": "800",
