@@ -1,7 +1,7 @@
 {
     "chain_name": "MANDE-TESTNET",
-    "api": ["https://api-mande-testnet-1.mms.team"], 
-    "rpc": ["https://rpc-mande-testnet-1.mms.team"],
+    "api": ["https://api-mande-testnet.mms.team"], 
+    "rpc": ["https://rpc-mande-testnet.mms.team"],
     "sdk_version": "0.42.6",
     "coin_type": "118",
     "min_tx_fee": "800",
